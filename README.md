@@ -37,15 +37,11 @@ In this project I built Advanced Shopping Cart usable componentized.
 
 Working across different pages.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-### Stack
+## Stack
 
 - React.js
 - Typescript
 - BootStrap
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
@@ -57,7 +53,7 @@ This project require some prequesites and dependenscies to be installed, you can
 
 > To get Started, follow these simple steps :
 
-### Installation
+## Installation
 
 1. Clone the repo
 
@@ -75,5 +71,7 @@ This project require some prequesites and dependenscies to be installed, you can
    ```bash
    npm i react-router-dom bootstrap react-bootstrap
    ```
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Screenshots
