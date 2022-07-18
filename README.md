@@ -62,7 +62,6 @@ This project require some prequesites and dependenscies to be installed, you can
 3. use vite choose react-ts
 
    ```bash
-   npm create vite .
    npm i
    npm run dev
    ```
