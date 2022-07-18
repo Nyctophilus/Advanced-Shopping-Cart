@@ -59,16 +59,12 @@ This project require some prequesites and dependenscies to be installed, you can
 
 2. go to project folder
 
-3. use vite choose react-ts
+3. install dependencies
 
    ```bash
    npm i
+   npm i react-router-dom
    npm run dev
-   ```
-
-4. install dependencies
-   ```bash
-   npm i react-router-dom bootstrap react-bootstrap
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
